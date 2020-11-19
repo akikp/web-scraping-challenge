@@ -21,6 +21,8 @@ Flask web application that scrapes various websites for data related to the Mars
 * Mars Hemispheres
 
 # Results
-![Test Image 1](image01.png)
-![Test Image 1](image02.png)
-![Test Image 1](image03.png)
+![Test Image 1](https://github.com/akikp/web-scraping-challenge/blob/main/Missions_to_Mars/Images/image01.png)
+
+![Test Image 1](https://github.com/akikp/web-scraping-challenge/blob/main/Missions_to_Mars/Images/image02.png)
+
+![Test Image 1](https://github.com/akikp/web-scraping-challenge/blob/main/Missions_to_Mars/Images/image03.png)
